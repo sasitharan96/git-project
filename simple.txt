@@ -1,1 +1,1 @@
-It is an sample file.
+It is an sample file. I am going to update because I am practicing git branch and merge.
